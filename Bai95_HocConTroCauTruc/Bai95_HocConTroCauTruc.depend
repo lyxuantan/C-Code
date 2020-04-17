@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585811038 source:c:\users\tan\desktop\108_baihocc++\bai95_hoccontrocautruc\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
